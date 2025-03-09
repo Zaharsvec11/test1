@@ -1,0 +1,46 @@
+body{
+    width: 800px;
+    margin: 0 auto;
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 251, 0);
+}
+
+h1, h2, h3, h4, h5{
+    text-align: center;
+    letter-spacing: 4px;
+}
+
+p{
+    font-family:'Courier New', Courier, monospace ;
+    font-size: 18ox;
+    line-height: 20px;
+}
+
+#one{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+    font-size: 20ox;
+    line-height: 26px;
+
+}
+
+.two {font-family:'Times New Roman', Times, serif;}
+
+ol,ul{font-family:'Courier New', Courier, monospace ;
+    font-size: 18ox;
+    line-height: 20px;}
+
+    ol ul{
+        list-style-type:lower-alpha;
+        list-style-position: inherit;
+        }
+
+ol li{
+list-style-type: lower-latin;
+list-style-position: inherit;
+}
+
+img{
+    width: 250px;
+    height: auto;
+    padding-left: 270px;
+}
